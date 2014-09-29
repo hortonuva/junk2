@@ -3,5 +3,5 @@ More Details
 
 More stuff here.
 
-And ever more stuff added locally.
+And lots of stuff added on GitHub.
 
