@@ -3,5 +3,4 @@ More Details
 
 More stuff here.
 
-And ever more and more and more stuff added locally.
-
+Lots of stuff could be put here, both locally and remotely.
